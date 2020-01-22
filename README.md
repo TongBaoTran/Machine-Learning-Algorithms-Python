@@ -6,5 +6,5 @@ Machine Learning algorithms will be illustrated with Python Code and Data sets
 
 Data Set: US Insurance
 
-## 2. Logistics Regression
+## 2. Logistic Regression
 
