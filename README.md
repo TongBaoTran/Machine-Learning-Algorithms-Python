@@ -2,9 +2,9 @@
 
 Machine Learning algorithms will be illustrated with Python Code and Data sets
 
-# 1. Linear Regression
+## 1. Linear Regression
 
 Data Set: US Insurance
 
-# 2. Logistics Regression
+## 2. Logistics Regression
 
